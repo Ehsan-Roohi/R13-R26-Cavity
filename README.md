@@ -15,6 +15,10 @@ The `Fourier*.ipynb` and `Untitled38.ipynb` files at the repository root are
 older notebook records and are not the entry point for reproducing the JFM
 results.
 
+## November 2026 cavity refinement
+
+See the [R13/R26 mesh-refinement package](r13-r26-refinement-20261104/) for the latest documented solver snapshots, states and grid comparisons at Kn_Gu = 0.05 and 0.20.
+
 ## Protected article code
 
 All content under `r13-r26-cavity/` is protected scientific material.  General
