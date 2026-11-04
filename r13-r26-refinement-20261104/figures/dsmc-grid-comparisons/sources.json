@@ -1,0 +1,142 @@
+[
+  {
+    "source": "KN005_N40.npy",
+    "label": "R13 Kn=0.05 N40",
+    "sha256": "2bf12280ce4222e8c626330bbe50ef7f187292be9a0427bb243dc6550c22c2a5"
+  },
+  {
+    "source": "KN005_N60.npy",
+    "label": "R13 Kn=0.05 N60",
+    "sha256": "152f496a32db76a00b6e2c911b3593d2574023ead3a71a2420e6c589c5f32d2c"
+  },
+  {
+    "source": "KN005_N80.npy",
+    "label": "R13 Kn=0.05 N80",
+    "sha256": "91d2698bee04773aa40cc8de07d20cc4e80ba8e32b8ff6ace7fa6185488c1fe9"
+  },
+  {
+    "source": "KN020_N40.npy",
+    "label": "R13 Kn=0.20 N40",
+    "sha256": "f4ddec2080417ec4ba642dbeb7d50a9a8ce9f4f1045216ed1ac481493d63b60c"
+  },
+  {
+    "source": "KN020_N60.npy",
+    "label": "R13 Kn=0.20 N60",
+    "sha256": "d986edb2feb3c858f379110032b454d1ef210e2f04c45915f1700a9c1f2fcc10"
+  },
+  {
+    "source": "KN020_N80.npy",
+    "label": "R13 Kn=0.20 N80",
+    "sha256": "5bafda8bf270832fd5704d17b2efa0326df3c303d6982539ae23c2c73d33ce06"
+  },
+  {
+    "source": "candidate.npz",
+    "label": "R26 Kn=0.20 N40",
+    "sha256": "fd381d0a4465fa877598b83c547bc7f1191959540d7368ced503264422d94211"
+  },
+  {
+    "source": "candidate.npz",
+    "label": "R26 Kn=0.20 N45",
+    "sha256": "34d05d4326fec81dcf7cf51559ec8cb50f5810aba76feee80859368bb5990a1e"
+  },
+  {
+    "source": "2_candidate.npz",
+    "label": "R26 Kn=0.20 N50",
+    "sha256": "12128acc16990b8b244d3852f4e409ba3dd3160c1442e897d63317998d9d4e3a"
+  },
+  {
+    "source": "actual_candidate.npz",
+    "label": "R26 Kn=0.20 N60",
+    "sha256": "3ea3e7e1efd3b2cfd4efdb1fb7c1f7051eb12edd44ea2c943b599efefeb6face"
+  },
+  {
+    "source": "KN020_FULL_STATE.npy",
+    "label": "R26 Kn=0.20 N90",
+    "sha256": "8ff9195629a6407bec69ffaad33b2abfbf075283336a4ec82f6686ccf89d93b5"
+  },
+  {
+    "source": "state.npz",
+    "label": "R26 Kn=0.05 N32",
+    "sha256": "6ae0a5d2ac5bd244a553d1688cac2bcaa8ea8b37a489440c94e1c4d2cf05742d"
+  },
+  {
+    "source": "last_accepted_state.npz",
+    "label": "R26 Kn=0.05 N40",
+    "sha256": "056008956310594039a675d2a13eff1862edd5d42db41f00005744fd68ea7fdf"
+  },
+  {
+    "source": "R26_KN005_F4195_ENCODED.npy",
+    "label": "R26 Kn=0.05 N60",
+    "sha256": "844622d2d6a54d01e80d670a0db3657e54aa1801d703211cd7c6b80406c7f58d"
+  },
+  {
+    "source": "last_accepted_state.npz",
+    "label": "R26 Kn=0.20 N20",
+    "sha256": "d752c14200a77dad9bdbb0436a9f58a0f62f56d0dc6729ed1587b2ddecebfc04"
+  },
+  {
+    "source": "last_accepted_state.npz",
+    "label": "R26 Kn=0.20 N28",
+    "sha256": "a28951fed0063f66dac5e0ec481a108f9a4599fdcfd83d6865b2a160ffa4a409"
+  },
+  {
+    "source": "checkpoint_0002.npz",
+    "label": "R26 Kn=0.05 N90",
+    "sha256": "83cbe7d49f0f6ccdfe10cb662e60eb46f5e1ff28d6bdeed45d412e65a6de4edc"
+  },
+  {
+    "source": "checkpoint_0001.npz",
+    "label": "R26 Kn=0.20 N120 step 6",
+    "sha256": "a77781d8d2596d7f670e937049822f385cd0adfa95edacdbf48aefe4ee890a58"
+  },
+  {
+    "source": "pooled_raw56_100k_980k.npz",
+    "label": "DSMC Kn=0.05 early LAB56",
+    "sha256": "629e669fe6443a81ac40cd604c62c251660592fe90f0aaee97b0221c20ca5d1d"
+  },
+  {
+    "source": "LAB56_ADDITIVE_SUM.npz",
+    "label": "DSMC Kn=0.05 parent LAB56",
+    "sha256": "d436222fb8783f7eb1c13aff2c10789adb046f34d3834fed873317ac199beae1"
+  },
+  {
+    "source": "LAB56_ADDITIVE_SUM.npz",
+    "label": "DSMC Kn=0.05 late LAB56",
+    "sha256": "32d223e1698a8612b2eaf56a88247e1fcb3b6b67a0caf850ad45d2800ba96018"
+  },
+  {
+    "source": "PINNED_ORIGINAL_ORACLE.py",
+    "label": "Pinned DSMC central-moment reconstruction",
+    "sha256": "9a012a662f60ebce1a766cd2effb96143edf9762a777d17eb9aad7d91db15f66"
+  },
+  {
+    "source": "KN005_DSMC_MAXIMUM_100K_TO5M_EXCLUDING_ZERO560K_FIELDS.npz",
+    "label": "DSMC Kn=0.05 six-field cross-check",
+    "sha256": "7aa3a48c736cfa2173b3a0ed2948f92c44e98ccb9b6f0ebbf71f280690ceded4"
+  },
+  {
+    "source": "DSMC_KN02_8M_LAB56.npy",
+    "label": "DSMC Kn=0.20 higher-moment LAB56",
+    "sha256": "375aee45b9b0139cd3e8caa5ec81fbd4e454aca20cc1320f211d542458843e84"
+  },
+  {
+    "source": "PINNED_ORIGINAL_ORACLE.py",
+    "label": "Pinned DSMC central-moment reconstruction",
+    "sha256": "9a012a662f60ebce1a766cd2effb96143edf9762a777d17eb9aad7d91db15f66"
+  },
+  {
+    "source": "KN02_DSMC_8M_FIELDS.npz",
+    "label": "DSMC Kn=0.20 six-field cross-check",
+    "sha256": "139f167ca379710129df539df6b0e1f7a0dc91ca2cfa10100b2f4bc74c5dc2e9"
+  },
+  {
+    "source": "matched_kn020_common_grid_fields.npz",
+    "label": "Matched historical DSMC fields",
+    "sha256": "72b8a263b5f81a84137511b0458bc8847cde6245b6abaf2b84f71a23e301946b"
+  },
+  {
+    "source": "matched_kn020_centerline_profiles.csv",
+    "label": "Original near-lid comparison table",
+    "sha256": "c225cb094a1a8b9c3b9f28b3bba9f7ba461643dbc29084b88f6234b461515535"
+  }
+]

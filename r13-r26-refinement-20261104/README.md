@@ -2,6 +2,12 @@
 
 This dated update supplements the protected article reproduction with the matched-wall R13 grid sequence and the independently replayed R26 continuation checkpoints for Kn = 0.05 and 0.20.
 
+## Figures with DSMC
+
+- [All-grid centerline comparisons](figures/dsmc-grid-comparisons/) cover both Knudsen numbers and include stress, higher moments and Δ where applicable. They use the audited provisional N120 step 6 at Kn = 0.20.
+- [Near-lid R26 heat flux at Kn = 0.20](figures/dsmc-grid-comparisons/R26_KN020_near_lid_qx.png) and [RMS differences for all eight grids](figures/dsmc-grid-comparisons/near_lid_qx.csv) compare the same 19 positions.
+- [November 3 paper figures](figures/paper-20261103/) collect the prepared physical comparisons and numerical diagnostics.
+
 ## R13
 
 The R13 solver uses a conservative finite-volume cavity residual with Maxwell wall conditions and a global mass constraint. The bordered defect-Newton solve uses finite-difference Jacobian-vector products and right-preconditioned GMRES. The continuation advances from a compatible grid solution and checks the final residual and physical consistency independently. The new grid uses the same wall and corner conventions. The final states and independent residual history are under [results/r13](results/r13/).
@@ -29,7 +35,7 @@ The independently replayed N90 (Kn = 0.05) and N120 (Kn = 0.20) states are **pro
 - [R26 heat flux](figures/R26_KN020_N28_N120_heat_flux.png) and [velocity and temperature](figures/R26_KN020_N28_N120_flow_profiles.png) at Kn = 0.20 compare the accepted N28 profiles and provisional N120 profiles with the same SPARTA DSMC reference. The plots retain the coordinate coverage of each data source.
 - [R26 archived grids at Kn = 0.05](figures/R26_KN005_archived_grid_profiles.png) and [at Kn = 0.20](figures/R26_KN020_archived_grid_profiles.png) show heat flux and the composite fourth-order tensor. These are saved-state sensitivity comparisons. Some iterations are incomplete and equivalence of the discrete operators across the historical grids remains unverified.
 
-The N120 profiles use audited continuation step 5. Its checkpoint SHA-256 is `f12c821ab353bab612904aa586d0276d57059f92504a05bd1973d28e228205bd`. The N28 and SPARTA curves use the matched centerline table with SHA-256 `c225cb094a1a8b9c3b9f28b3bba9f7ba461643dbc29084b88f6234b461515535`.
+The earlier N28–N120 profiles immediately above use audited continuation step 5. Its checkpoint SHA-256 is `f12c821ab353bab612904aa586d0276d57059f92504a05bd1973d28e228205bd`. The N28 and SPARTA curves use the matched centerline table with SHA-256 `c225cb094a1a8b9c3b9f28b3bba9f7ba461643dbc29084b88f6234b461515535`.
 
 ## Code and data
 
