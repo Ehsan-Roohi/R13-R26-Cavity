@@ -1,0 +1,392 @@
+[
+  {
+    "file": "physical-comparisons/KN005_ANTI_FOURIER.pdf",
+    "sha256": "bc739528aac685b2bff752dc4b63d07f580838fde1c133152bf0745f1697499b",
+    "bytes": 270616
+  },
+  {
+    "file": "physical-comparisons/KN005_ANTI_FOURIER.png",
+    "sha256": "c27baeb9e5e31b5facf8492b5f9257ba9735f27fac977612f21cb171eb111067",
+    "bytes": 403565
+  },
+  {
+    "file": "physical-comparisons/KN005_CENTERLINE_PROFILES.pdf",
+    "sha256": "3d3e3f08b5477b00af2a5741ea46ca759b22cb77bacb175482948f6cb8044f9b",
+    "bytes": 53707
+  },
+  {
+    "file": "physical-comparisons/KN005_CENTERLINE_PROFILES.png",
+    "sha256": "9b5ad7caa1c12930fd8a4287d54b2735c8f14a6c244a281f752e02bc2f02766b",
+    "bytes": 488902
+  },
+  {
+    "file": "physical-comparisons/KN005_DENSITY.pdf",
+    "sha256": "c1d990283aecfa4b0047e34cc201e9e8ab1b4097b9438a58f6ae5dd85b18d96b",
+    "bytes": 52745
+  },
+  {
+    "file": "physical-comparisons/KN005_DENSITY.png",
+    "sha256": "662230364eb3ae45faa44eb0128d97e1eb0ea9c88a997f238f3b4cac0e6f2a7d",
+    "bytes": 152044
+  },
+  {
+    "file": "physical-comparisons/KN005_HEAT_FLUX.pdf",
+    "sha256": "c576b248d1fc3d230d16dfc83d84cfca6d99115c6a2d4e8be591233ce96a2e4c",
+    "bytes": 46083
+  },
+  {
+    "file": "physical-comparisons/KN005_HEAT_FLUX.png",
+    "sha256": "afeecf0702505ad78c2eb1d08692509882f26fc0a1cf831df59b8b44b8dcebf5",
+    "bytes": 123295
+  },
+  {
+    "file": "physical-comparisons/KN005_PRIMARY_FIELDS.pdf",
+    "sha256": "6080b3b3a78d943e5fb5a2f0af9b1d08cad69290d82704274bd42553b457f451",
+    "bytes": 410793
+  },
+  {
+    "file": "physical-comparisons/KN005_PRIMARY_FIELDS.png",
+    "sha256": "e023e7d78b192ade1505d538c5d13da72f07f68a20b2b960e56b3cc4c4d5ee51",
+    "bytes": 873150
+  },
+  {
+    "file": "physical-comparisons/KN005_SPEED.pdf",
+    "sha256": "017dccb6b27d0f47592fe2d5061139b090c11831837d74395bdf84c3af77c2c8",
+    "bytes": 199302
+  },
+  {
+    "file": "physical-comparisons/KN005_SPEED.png",
+    "sha256": "cc167e2501df8346cbd39f14b84f0dfa6f41501f1e9987d5f2d0ea57ee76d2c2",
+    "bytes": 419052
+  },
+  {
+    "file": "physical-comparisons/KN005_TEMPERATURE.pdf",
+    "sha256": "6d01b2d277ee867462644a46c8cde737469b9696d6fdf42e800056c2aea400f8",
+    "bytes": 76683
+  },
+  {
+    "file": "physical-comparisons/KN005_TEMPERATURE.png",
+    "sha256": "ab7fcb28f4cd88c22afbc10631b0194cb75bcc01c8592b5db9badd67cd60938e",
+    "bytes": 216093
+  },
+  {
+    "file": "physical-comparisons/KN020_ANTI_FOURIER.pdf",
+    "sha256": "cffd51c9a1e3041f0c3ff03adce0d69c95452014fe91b6b3ce9511e328aa790c",
+    "bytes": 329046
+  },
+  {
+    "file": "physical-comparisons/KN020_ANTI_FOURIER.png",
+    "sha256": "e7227b98fa29571ebde1ef9388344ed5684e75b71a3eb985a246e8e3145b2d3f",
+    "bytes": 490765
+  },
+  {
+    "file": "physical-comparisons/KN020_CENTERLINE_PROFILES.pdf",
+    "sha256": "54d226306a5ccc78d9bbf9e3a977891c2a6813ea05fecea0227850524577d0b9",
+    "bytes": 53038
+  },
+  {
+    "file": "physical-comparisons/KN020_CENTERLINE_PROFILES.png",
+    "sha256": "307765af08cf32fdb5dbba6716cc4c7fce8681271edc6645272664a23765269b",
+    "bytes": 534895
+  },
+  {
+    "file": "physical-comparisons/KN020_DENSITY.pdf",
+    "sha256": "8a94379636a265ff7b8c477a8109f0869339064acbd882df731cb58c9612c753",
+    "bytes": 64602
+  },
+  {
+    "file": "physical-comparisons/KN020_DENSITY.png",
+    "sha256": "adcae92284e1216e60f92d1ccc270c91c62feb12dcf2f1691fa0f58f60247c15",
+    "bytes": 182087
+  },
+  {
+    "file": "physical-comparisons/KN020_HEAT_FLUX.pdf",
+    "sha256": "1e84dc409ed88eb581db261dc1f678772108ef0be9db607d9ff4293a37fc2804",
+    "bytes": 93002
+  },
+  {
+    "file": "physical-comparisons/KN020_HEAT_FLUX.png",
+    "sha256": "b5b995acffe3dac08fb96a44586908d8f3a29e115f93c7e84cdb0ac45813e6ee",
+    "bytes": 222443
+  },
+  {
+    "file": "physical-comparisons/KN020_PRIMARY_FIELDS.pdf",
+    "sha256": "7d797863dc220926a6d91dd17c8b62e54ec013339c351bd81ee681b0b9cbe7a4",
+    "bytes": 448252
+  },
+  {
+    "file": "physical-comparisons/KN020_PRIMARY_FIELDS.png",
+    "sha256": "b44a45abeded7f4e6164ed654dcd387d4ded28134699969a20b0beb929e2d962",
+    "bytes": 973263
+  },
+  {
+    "file": "physical-comparisons/KN020_SPEED.pdf",
+    "sha256": "b2f571645d1337dc0aa0b6737c30210950d2275044423e1b8ec1ba231d8c080c",
+    "bytes": 177648
+  },
+  {
+    "file": "physical-comparisons/KN020_SPEED.png",
+    "sha256": "04bc96af87b130dd16fbfd94343ffb4c08cd42476021d5e802428123aeedd97b",
+    "bytes": 407070
+  },
+  {
+    "file": "physical-comparisons/KN020_TEMPERATURE.pdf",
+    "sha256": "ec1d8a2e62a39bc464e2e44aa1dc28ae155d8b0816377e862cc193946bb50494",
+    "bytes": 79387
+  },
+  {
+    "file": "physical-comparisons/KN020_TEMPERATURE.png",
+    "sha256": "8082a76684d3322e4455c81f25308b5ad4c85d327d416d4cfc080b62cbaa291f",
+    "bytes": 245106
+  },
+  {
+    "file": "physical-comparisons/PAPER_COMPARISONS.pdf",
+    "sha256": "bd0029303069fed73ae5f691c3e4728e8b00e3d48c65859ac9aa5f660685bcd4",
+    "bytes": 1564359
+  },
+  {
+    "file": "physical-comparisons/PREVIEW_ALL_SIX.png",
+    "sha256": "5d7ad1ea3283a6b0714d621e1e5de341d0f59862d6536a7c82fb410f8bb74d53",
+    "bytes": 793058
+  },
+  {
+    "file": "journal-diagnostics/JOURNAL_RESIDUALS_ALL.pdf",
+    "sha256": "37519ab185bd405b6c6243a8dc086c98ed64347922ade088ecdb3c6f4f572358",
+    "bytes": 8974832
+  },
+  {
+    "file": "journal-diagnostics/KN005_ALIGNMENT_NATIVE_GRADIENT.pdf",
+    "sha256": "7c905730aaf5cab6dee436f9646f52e40bac7de2165b87435c5ed7ea4d4e4f3d",
+    "bytes": 502682
+  },
+  {
+    "file": "journal-diagnostics/KN005_ALIGNMENT_NATIVE_GRADIENT.png",
+    "sha256": "0e5f19ffd80d30869e20a48c9d81fb762a96aaba23b27ddfcca8086ff4fbc663",
+    "bytes": 291266
+  },
+  {
+    "file": "journal-diagnostics/KN005_R13_RESIDUALS.pdf",
+    "sha256": "b5a6c7a10ffa233dca4083782fb5b32abe50ebc09c3504a21ef95973070e16c9",
+    "bytes": 3099920
+  },
+  {
+    "file": "journal-diagnostics/KN005_R13_RESIDUALS_PAGE1.png",
+    "sha256": "5f66f1cd5bcd8a36cde81296f86cd40f770ff376aa20963fa750247dad1f44ae",
+    "bytes": 726308
+  },
+  {
+    "file": "journal-diagnostics/KN005_R13_RESIDUALS_PAGE2.png",
+    "sha256": "b1794d3660c98d613a7c9d7f5ba9b9c78c0e235557015f1dcb2bcf307035920b",
+    "bytes": 665536
+  },
+  {
+    "file": "journal-diagnostics/KN005_R13_RESIDUALS_PAGE3.png",
+    "sha256": "da73bab9c163157e0e87ee9d3083ca450d384b74f3c65c01a3a99baed83c7c05",
+    "bytes": 571504
+  },
+  {
+    "file": "journal-diagnostics/KN005_R26_RESIDUALS.pdf",
+    "sha256": "11f6ffddc92ae4f395527c90b74c68586bb66766e9b72ba51fb0d42b519f26f3",
+    "bytes": 2239488
+  },
+  {
+    "file": "journal-diagnostics/KN005_R26_RESIDUALS_PAGE1.png",
+    "sha256": "6005f61aa5eec6cf399cbba8b50c16d566ab1c4f0efecae7a2c9148461439cff",
+    "bytes": 770916
+  },
+  {
+    "file": "journal-diagnostics/KN005_R26_RESIDUALS_PAGE2.png",
+    "sha256": "6c2b6ad768c19170c0dcb9b72b4e7730a193b594e75a1c31534d20b42c88d6f9",
+    "bytes": 657118
+  },
+  {
+    "file": "journal-diagnostics/KN005_R26_RESIDUALS_PAGE3.png",
+    "sha256": "0a65d773378863e87b3d167300e011fd54caa15edeb0f5087aad5548b38beddb",
+    "bytes": 445365
+  },
+  {
+    "file": "journal-diagnostics/KN020_ALIGNMENT_NATIVE_GRADIENT.pdf",
+    "sha256": "9b35e92d15484fb32de2a9d136cf19e997ceb964c4528f4425f5d2cd7d7d6212",
+    "bytes": 594749
+  },
+  {
+    "file": "journal-diagnostics/KN020_ALIGNMENT_NATIVE_GRADIENT.png",
+    "sha256": "dc2d1c549dfca6b621531018f6fcaaf265986490bb0ff63f969bb01a1f19f760",
+    "bytes": 337504
+  },
+  {
+    "file": "journal-diagnostics/KN020_R13_RESIDUALS.pdf",
+    "sha256": "f4086b32ff277d3ff27c31f70d992ad494ff38a813dc3a49fc0e539d35eb02c4",
+    "bytes": 2082646
+  },
+  {
+    "file": "journal-diagnostics/KN020_R13_RESIDUALS_PAGE1.png",
+    "sha256": "239c90a9c889506fb95976fe5816d09879e98ce47ce8e449ef13d8cbb886e26a",
+    "bytes": 565247
+  },
+  {
+    "file": "journal-diagnostics/KN020_R13_RESIDUALS_PAGE2.png",
+    "sha256": "499b4e8f2f429750525bfa2fa6c5a1acdaff2eb651366bf59f39fce32d5a6672",
+    "bytes": 549733
+  },
+  {
+    "file": "journal-diagnostics/KN020_R13_RESIDUALS_PAGE3.png",
+    "sha256": "fb44897b1127d69017e0de041ae59b5b76f2fbcc38950a5546ee6835d6b7d651",
+    "bytes": 469832
+  },
+  {
+    "file": "journal-diagnostics/KN020_R26_RESIDUALS.pdf",
+    "sha256": "721d217aaa64e4547c9b7bf4497dc34c9a85fc822825a59ff5132f4a9997594a",
+    "bytes": 1555271
+  },
+  {
+    "file": "journal-diagnostics/KN020_R26_RESIDUALS_PAGE1.png",
+    "sha256": "c9b5aec9c9ac4924a137d6fd727719eb42e2e167aa158ad66258e03e1c3cadee",
+    "bytes": 426527
+  },
+  {
+    "file": "journal-diagnostics/KN020_R26_RESIDUALS_PAGE2.png",
+    "sha256": "57e3bfd94776d3522ebcd56ca6f5c84ccbb861c0dc6881a1a40801cf6a7c441d",
+    "bytes": 466012
+  },
+  {
+    "file": "journal-diagnostics/KN020_R26_RESIDUALS_PAGE3.png",
+    "sha256": "8490aa5950b44a26535e2c343fc08111897938c0a4265966fda599ece70d94f9",
+    "bytes": 393808
+  },
+  {
+    "file": "journal-diagnostics/RESIDUAL_QA.png",
+    "sha256": "4ae4f91e527e3f2fc0918d279645278b3c3fc6ddab5d3c64ddae8baa1b9c4f8c",
+    "bytes": 1331152
+  },
+  {
+    "file": "full-alignment/KN005_FULL_ALIGNMENT.pdf",
+    "sha256": "3910e1300825babbd4929c8a8ae2ca8e0a3dfa5fea2dcbf56c12b2303d66e592",
+    "bytes": 544385
+  },
+  {
+    "file": "full-alignment/KN005_FULL_ALIGNMENT.png",
+    "sha256": "3fba4d556b933f0f8aef8ade869a72ae155093c5697fb07091a0d3a4dd5c4860",
+    "bytes": 311970
+  },
+  {
+    "file": "full-alignment/KN020_FULL_ALIGNMENT.pdf",
+    "sha256": "d04d911f8f97290962c6fe97cddbda3d38e72963fbaf872d4a58e8e00d64ac37",
+    "bytes": 665051
+  },
+  {
+    "file": "full-alignment/KN020_FULL_ALIGNMENT.png",
+    "sha256": "69bcc0c235bbceaf485b4e40357fe717919d3289bbbabbec7e204494c2b16711",
+    "bytes": 368790
+  },
+  {
+    "file": "three-methods/KN005_THREE_METHODS.pdf",
+    "sha256": "ce820cc1f84360de9570e4ccc173427b5ff39edf8da87ba2ab23bce9c2d653fe",
+    "bytes": 40258
+  },
+  {
+    "file": "three-methods/KN005_THREE_METHODS.png",
+    "sha256": "db57b74ee529878e82ba66227015587d9e173f5ffe7310d1347c2981930ebd06",
+    "bytes": 333919
+  },
+  {
+    "file": "three-methods/KN005_WALL_DETAIL.pdf",
+    "sha256": "f0328a4722f12d9ead4d68bc4e8a8e760b9774688bcecd5eee838e1ef1cc561b",
+    "bytes": 46070
+  },
+  {
+    "file": "three-methods/KN005_WALL_DETAIL.png",
+    "sha256": "78066ce2b53b82ee9e50267ca36acf0490ad3e362a283b0ce905bc33f3145dee",
+    "bytes": 534529
+  },
+  {
+    "file": "three-methods/KN020_THREE_METHODS.pdf",
+    "sha256": "5910db3ee0fdf985f5e6725ff1eaf4497d67e1607e655ce82e52798e4b3245b4",
+    "bytes": 40212
+  },
+  {
+    "file": "three-methods/KN020_THREE_METHODS.png",
+    "sha256": "d875e924877b7277961a0b8d8ac9a042d7b5bb15b0b1e9e97444c1a8d4ccd547",
+    "bytes": 378167
+  },
+  {
+    "file": "three-methods/KN020_WALL_DETAIL.pdf",
+    "sha256": "d234fb4890ca46002c81d7c3c64429d3d5c5288a3deed22df36cdf6220afb032",
+    "bytes": 45868
+  },
+  {
+    "file": "three-methods/KN020_WALL_DETAIL.png",
+    "sha256": "2476c010294e695b1a43de009dfe997d07adadff432385e2d837a38cce1c95a5",
+    "bytes": 524548
+  },
+  {
+    "file": "insets/KN005_THREE_METHODS_INSETS.pdf",
+    "sha256": "3d3e3f08b5477b00af2a5741ea46ca759b22cb77bacb175482948f6cb8044f9b",
+    "bytes": 53707
+  },
+  {
+    "file": "insets/KN005_THREE_METHODS_INSETS.png",
+    "sha256": "9b5ad7caa1c12930fd8a4287d54b2735c8f14a6c244a281f752e02bc2f02766b",
+    "bytes": 488902
+  },
+  {
+    "file": "insets/KN020_THREE_METHODS_INSETS.pdf",
+    "sha256": "54d226306a5ccc78d9bbf9e3a977891c2a6813ea05fecea0227850524577d0b9",
+    "bytes": 53038
+  },
+  {
+    "file": "insets/KN020_THREE_METHODS_INSETS.png",
+    "sha256": "307765af08cf32fdb5dbba6716cc4c7fce8681271edc6645272664a23765269b",
+    "bytes": 534895
+  },
+  {
+    "file": "expanded-dsmc-windows/KN005_MAXIMUM_DATA_CENTERLINE_PROFILES.pdf",
+    "sha256": "6139357d911878df27bb5d44e6998ebbb15cb2f98691258f189a6bc1246ce68b",
+    "bytes": 42890
+  },
+  {
+    "file": "expanded-dsmc-windows/KN005_MAXIMUM_DATA_CENTERLINE_PROFILES.png",
+    "sha256": "061fc58294ef48810ced9d0d7c5c94ca9038b9bee95b2822793d79f9f9e725fe",
+    "bytes": 570803
+  },
+  {
+    "file": "expanded-dsmc-windows/KN020_MAXIMUM_DATA_CENTERLINE_PROFILES.pdf",
+    "sha256": "2d01f3598e7642543c43258dada4f2e940639af76ddaae99da49dc1906c1460f",
+    "bytes": 44207
+  },
+  {
+    "file": "expanded-dsmc-windows/KN020_MAXIMUM_DATA_CENTERLINE_PROFILES.png",
+    "sha256": "31a7eea1dd86374da683baac2284261a56900085be104a566715c3e4b3886cd2",
+    "bytes": 653973
+  },
+  {
+    "file": "paired-profiles/KN005_KN020_CENTERLINE_PROFILES.pdf",
+    "sha256": "d2b610df709df09239a663c919d8e4bda261417ac44aedde5ecd44ddc8a8cc5f",
+    "bytes": 81129
+  },
+  {
+    "file": "paired-profiles/UPDATED_TEMPERATURE_HEAT_FLUX.pdf",
+    "sha256": "78ea99eebecc54dd902d975853b85ede5d01cdb7670ee2bb1c2633d8dc6a7521",
+    "bytes": 319011
+  },
+  {
+    "file": "paired-profiles/KN005_TEMPERATURE_HEAT_FLUX.png",
+    "sha256": "2e4c37ade924f3f67ec87cb2e49f58eb7ea36493d01ce651a7b00756dff5a2df",
+    "bytes": 543102
+  },
+  {
+    "file": "paired-profiles/KN020_TEMPERATURE_HEAT_FLUX.png",
+    "sha256": "b08bfc513347dafc6027bbedb951023a398386abb87dea46544c9c21de1a7c09",
+    "bytes": 542832
+  },
+  {
+    "file": "manuscript-supplement/fig_airy_boundary_compatible_nullspace.pdf",
+    "sha256": "11112b2ae377953d74998df12b7a44e6ec3fa439d769fa3f2f3502495ef3bd2a",
+    "bytes": 112554
+  },
+  {
+    "file": "manuscript-supplement/fig_dsmc_grid_ppc_sensitivity.pdf",
+    "sha256": "523cf6365e73fb72a8bfebfdbf8c9232d9211c2e3e07655e269a813aa9dfdd62",
+    "bytes": 34890
+  }
+]

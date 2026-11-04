@@ -1,0 +1,58 @@
+{
+  "status": "PASS_TWO_MERIT_GATE_ONLY",
+  "epoch": 1793809285.6558652,
+  "scope": "Independent process using pinned operator, same N90 seed basis. Not a full seven-guard verifier or final acceptance.",
+  "scientific_accepted": false,
+  "selector_promoted": false,
+  "reported_values_reproduced": true,
+  "gates": {
+    "scaled_merit_decreased": true,
+    "restored_raw_merit_decreased": true
+  },
+  "results": {
+    "grid_seed": {
+      "RMS": 0.276224662628826,
+      "scaled_phi": 5253.2594232275405,
+      "restored_raw_SSE": 444116.1003491435,
+      "mass_error": 5.786665369100774e-09,
+      "held_out_continuity": 0.0006222094712035608,
+      "positive_density_temperature": true
+    },
+    "candidate": {
+      "RMS": 0.24514916313067334,
+      "scaled_phi": 4137.755023845644,
+      "restored_raw_SSE": 442988.856929323,
+      "mass_error": 6.082406578400423e-09,
+      "held_out_continuity": 0.0006216696466427828,
+      "positive_density_temperature": true
+    }
+  },
+  "RMS_reduction_fraction": 0.11250081438205983,
+  "raw_SSE_increase_fraction": -0.0025381728312355856,
+  "balances": {
+    "mass_boundary_flux": 0.0,
+    "momentum_boundary_flux": [
+      -0.0010239723413683482,
+      0.0007422514291826341,
+      0.0
+    ],
+    "momentum_boundary_flux_linf": 0.0010239723413683482,
+    "theta_boundary_flux": 0.014912452433970495,
+    "heat_boundary_flux": 0.022368678650955744,
+    "volume_pressure_plus_viscous_work": -0.022601474821747434,
+    "internal_energy_balance_error": -0.0002327961707916902,
+    "top_traction_state_vs_flux_linf": 0.0,
+    "top_shear_integral_smooth_common_cv": -0.09622712089921232,
+    "D_smooth_common_cv": 0.3399419682548247,
+    "D_corner_inclusive_trapezoid": 0.3400049297574979,
+    "G_corner_inclusive_trapezoid": 0.1603721498971837,
+    "wall_effective_pressure_min": 0.6844210217717239,
+    "wall_effective_pressure_max": 1.5269935710133165,
+    "wall_normal_velocity_linf": 0.07897367559175873,
+    "independent_wall_residual_linf": 0.8299295688665751,
+    "thermodynamic_pressure_min": 0.7012693685373309,
+    "thermodynamic_pressure_max": 1.4696377032532126,
+    "corner_policy": "global smooth-wall flux quadrature excludes all four corner nodes; legacy Rana D/G trapezoid is reported separately"
+  },
+  "checkpoint_sha256": "83cbe7d49f0f6ccdfe10cb662e60eb46f5e1ff28d6bdeed45d412e65a6de4edc"
+}
