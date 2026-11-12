@@ -1,0 +1,33 @@
+{
+  "schema": "R26_KN020_LATEST_GUARD_SUMMARY_20261111",
+  "N120_step36": {
+    "job": "66879100",
+    "independent_guard_job": "66883409",
+    "global_iteration": 36,
+    "independent_equation_RMS": 0.0010687999774211625,
+    "original_nine_checks": {
+      "finite_state_and_model": true,
+      "original_encoded_bounds": true,
+      "strict_original_model_Armijo": true,
+      "scaled_armijo": true,
+      "restored_raw_merit_decrease": true,
+      "mass_constraint": true,
+      "positive_density_temperature": true,
+      "positive_wall_thermodynamic_pressure": true,
+      "held_out_progress": true
+    },
+    "practical_convergence": false,
+    "scientific_acceptance": false,
+    "state_sha256": "3b335a1471fbec2b5374999de3b6cc4192c1f3c373dd1790c112f210708936bf"
+  },
+  "N180_step8": {
+    "job": "66884487",
+    "independent_guard_job": "66890524",
+    "global_iteration": 8,
+    "independent_equation_RMS": 0.004329347507385571,
+    "all_nine_guards_PASS": true,
+    "practical_convergence": false,
+    "scientific_acceptance": false,
+    "state_sha256": "93a1c043d415497865b6eb218750093c9cdad31be601c4dfd3393359c704aaba"
+  }
+}

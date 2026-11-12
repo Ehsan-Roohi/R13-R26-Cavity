@@ -70,5 +70,70 @@
     "converged": false,
     "state": "results/r26/KN020_N120_provisional.npz",
     "sha256": "f4659e5d67f3a4cc4360d49c5ca2ebb8034df7b2b522bdb839507454d26b7211"
+  },
+  {
+    "model": "R13",
+    "Kn": 0.05,
+    "N": 100,
+    "label": "N100",
+    "independent_rms": 1.1585823168348761e-06,
+    "converged": true,
+    "convergence_basis": "practical tolerance",
+    "job": "66797822",
+    "state": "results/r13/KN005_N100.npy",
+    "sha256": "e26e263d4815e5f2a9e968e31a26574d49605a7c11d81809da51bd7473a2bf40",
+    "added": "2026-11-11"
+  },
+  {
+    "model": "R13",
+    "Kn": 0.05,
+    "N": 120,
+    "label": "N120",
+    "independent_rms": 4.835329645073158e-06,
+    "converged": true,
+    "convergence_basis": "practical tolerance",
+    "job": "66857851",
+    "state": "results/r13/KN005_N120.npy",
+    "sha256": "a15a044d3ebc0381e49ab66abb43f6ca9e633c46a853f013bfe375ceec56c3ae",
+    "added": "2026-11-11"
+  },
+  {
+    "model": "R13",
+    "Kn": 0.05,
+    "N": 180,
+    "label": "N180",
+    "independent_rms": 2.0276523195201742e-05,
+    "converged": true,
+    "convergence_basis": "practical tolerance",
+    "job": "66936129",
+    "state": "results/r13/KN005_N180_accepted4.npy",
+    "sha256": "8530df52c026b65666d917f33ae51514422cc127b2f4bee4bad75b23688a01df",
+    "added": "2026-11-11"
+  },
+  {
+    "model": "R26",
+    "Kn": 0.2,
+    "N": 120,
+    "label": "N120 step 36",
+    "independent_rms": 0.0010687999774211625,
+    "converged": false,
+    "convergence_basis": "not converged; provisional checkpoint",
+    "job": "66879100",
+    "state": "results/r26/KN020_N120_step36_provisional.npz",
+    "sha256": "3b335a1471fbec2b5374999de3b6cc4192c1f3c373dd1790c112f210708936bf",
+    "added": "2026-11-11"
+  },
+  {
+    "model": "R26",
+    "Kn": 0.2,
+    "N": 180,
+    "label": "N180 step 8",
+    "independent_rms": 0.004329347507385571,
+    "converged": false,
+    "convergence_basis": "not converged; provisional checkpoint",
+    "job": "66884487",
+    "state": "results/r26/KN020_N180_step8_provisional.npz",
+    "sha256": "93a1c043d415497865b6eb218750093c9cdad31be601c4dfd3393359c704aaba",
+    "added": "2026-11-11"
   }
 ]
