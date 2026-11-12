@@ -18,7 +18,7 @@ Each figure is also available as a vector PDF with the same name.
 - [metrics.json](metrics.json) lists RMS and maximum differences by line and window, and whole-cavity RMS values at Kn = 0.20. Models are interpolated linearly to the DSMC positions inside their own coverage, without extrapolation or smoothing.
 - [sources.json](sources.json) gives the SHA-256 of every input. The new model states are in [results/r13](../../results/r13/) and [results/r26](../../results/r26/), and are listed in the [case index](../../results/cases.json).
 
-The R13 profiles recomputed from these states match the previously reviewed profiles exactly. The R26 states are not converged roots, so their differences combine grid and iteration effects and are not error bounds.
+The R13 profiles recomputed from these states match the previously reviewed profiles exactly. The R26 states are not converged roots (largest residuals 0.16 for N120 step 36 and 0.74 for N180 step 8). N120 was started from the N90 paper state and N180 from an N120 iterate, so their differences combine grid, iteration and starting-state effects and are not error bounds or evidence of grid convergence.
 
 To redraw the figures from the data in this folder (requires NumPy and Matplotlib):
 
