@@ -1,0 +1,31 @@
+# DSMC lid-driven cavity start-up (Gaussian lid, reference deck of the paper's DSMC); Kn_Gu = 0.05; seed index 0.
+units                si
+seed                 825214732
+dimension            2
+boundary             s s p
+
+create_box           0.0 9.9999999999999995e-07 0.0 9.9999999999999995e-07 -0.5 0.5
+create_grid          160 160 1
+
+global               nrho 3.4538410244383913e+25 fnum 5.2701431647314318e+06 temp 300
+species              argon.species Ar
+mixture              gas Ar nrho 3.4538410244383913e+25 temp 300 vstream 0.0 0.0 0.0
+
+surf_collide         fixed diffuse 300 1.0
+surf_collide         lid diffuse 300 1.0 translate 100 0.0 0.0 lidprofile gauss 0.031622776601683794
+bound_modify         xlo xhi ylo collide fixed
+bound_modify         yhi collide lid
+
+collide              vss gas maxwell.vss
+create_particles     gas n 0
+timestep             1.0323529147672158e-12
+
+stats 1000
+stats_style step cpu np nattempt ncoll nscoll
+compute flow grid all gas nrho u v
+compute thermal thermal/grid all gas temp
+compute heat eflux/grid all gas heatx heaty
+fix movavg ave/grid all 10 50 500 c_flow[*] c_thermal[*] c_heat[*] ave one
+dump movblocks grid all 500 mov.block.* id xc yc f_movavg[*]
+dump_modify movblocks format float %.9g
+run 200000
